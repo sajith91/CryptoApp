@@ -1,4 +1,5 @@
 package com.saj.cryptoapplication.common
 
-class Constants {
+object Constants {
+    const val  BASE_URL = "https://api.coinpaprika.com/"
 }
