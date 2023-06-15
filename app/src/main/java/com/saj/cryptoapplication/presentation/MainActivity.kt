@@ -1,4 +1,4 @@
-package com.saj.cryptoapplication
+package com.saj.cryptoapplication.presentation
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -10,7 +10,7 @@ import androidx.compose.material.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
-import com.saj.cryptoapplication.ui.theme.CryptoApplicationTheme
+import com.saj.cryptoapplication.presentation.ui.theme.CryptoApplicationTheme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

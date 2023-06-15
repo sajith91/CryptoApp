@@ -1,4 +1,4 @@
-package com.saj.cryptoapplication.ui.theme
+package com.saj.cryptoapplication.presentation.ui.theme
 
 import androidx.compose.material.Typography
 import androidx.compose.ui.text.TextStyle
